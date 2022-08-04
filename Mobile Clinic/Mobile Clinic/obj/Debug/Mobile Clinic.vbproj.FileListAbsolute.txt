@@ -1,0 +1,14 @@
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\CP\Mobile Clinic\Mobile Clinic\bin\Debug\Mobile Clinic.exe.config
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\CP\Mobile Clinic\Mobile Clinic\bin\Debug\Mobile Clinic.exe
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\CP\Mobile Clinic\Mobile Clinic\bin\Debug\Mobile Clinic.pdb
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\CP\Mobile Clinic\Mobile Clinic\bin\Debug\Mobile Clinic.xml
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\CP\Mobile Clinic\Mobile Clinic\obj\Debug\Mobile_Clinic.Resources.resources
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\CP\Mobile Clinic\Mobile Clinic\obj\Debug\Mobile Clinic.vbproj.GenerateResource.Cache
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\CP\Mobile Clinic\Mobile Clinic\obj\Debug\Mobile Clinic.exe
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\CP\Mobile Clinic\Mobile Clinic\obj\Debug\Mobile Clinic.xml
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\CP\Mobile Clinic\Mobile Clinic\obj\Debug\Mobile Clinic.pdb
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\CP\Mobile Clinic\Mobile Clinic\obj\Debug\Mobile_Clinic.Form1.resources
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\CP\Mobile Clinic\Mobile Clinic\bin\Debug\Mobile Clinic.exe.manifest
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\CP\Mobile Clinic\Mobile Clinic\bin\Debug\Mobile Clinic.application
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\CP\Mobile Clinic\Mobile Clinic\obj\Debug\Mobile Clinic.exe.manifest
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\CP\Mobile Clinic\Mobile Clinic\obj\Debug\Mobile Clinic.application
